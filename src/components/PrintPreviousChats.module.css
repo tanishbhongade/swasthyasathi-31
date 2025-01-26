@@ -1,0 +1,23 @@
+.aiResponseBlock {
+    background-color: rgb(80, 200, 120);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.userPromptsBlock {
+    background-color: rgb(80, 200, 120);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.previousChatsBlock {
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    gap: 20px;
+}

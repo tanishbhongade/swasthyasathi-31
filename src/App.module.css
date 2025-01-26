@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(229, 251, 251);
+}
+
+.mainInterface {
+  width: 100vw;
+  background-color: rgb(203, 188, 188);
+}
+
+.inpsec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

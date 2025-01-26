@@ -1,0 +1,8 @@
+.userInputTextArea{
+    width: 40vw; 
+    background-color: rgb(120, 248, 163);
+    color: black;
+    padding: 15px;
+    border-radius: 13px;
+    margin-bottom: 15px;
+}
